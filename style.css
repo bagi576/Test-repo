@@ -1,5 +1,11 @@
-ul {
+h1 {
+    border: 7px dotted green;
+}
+
+li
+{
     font-size: larger;
     font-weight: bold;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: red;
 }
